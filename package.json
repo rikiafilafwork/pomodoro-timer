@@ -1,0 +1,27 @@
+{
+  "name": "pomodoro-timer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rikiafilafwork/pomodoro-timer.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "type": "module",
+  "author": "Riki Afila F",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rikiafilafwork/pomodoro-timer/issues"
+  },
+  "homepage": "https://github.com/rikiafilafwork/pomodoro-timer#readme",
+  "dependencies": {
+    "moment": "^2.29.4",
+    "node-notifier": "^10.0.1"
+  }
+}
